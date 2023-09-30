@@ -1,5 +1,5 @@
 Windows
-```
+'''
 pipeline {
    agent any
     stages {
@@ -10,10 +10,10 @@ pipeline {
         }
     }
 }
-```
+'''
 
 Linux
-```
+'''
 pipeline {
    agent any
     stages {
@@ -24,4 +24,4 @@ pipeline {
         }
     }
 }
-```
+'''
